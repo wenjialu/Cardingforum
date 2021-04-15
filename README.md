@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Cardingforum
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @wenjia
+- 👀 I’m interested in fancy 
+- 🌱 I’m currently learning AI and Backend Development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: izoeyz@163.com 
 
 
-Cardingforum/Cardingforum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 
